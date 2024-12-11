@@ -11,7 +11,7 @@ My name is Edson Figueroa and I am a student at [Cal State Fullerton](http://www
 
 * Lab 3
 
- For part 1 of this lab, we had to make a Basal Metabolic Rate Calculator. We would input numbers that would be stored in variables that correspond to a person’s height, weight, and age. Then, we would put those variables in an equation to find the Basal Metabolic Rate of a person. I liked it because it is a useful tool for people who want to know this information about themselves. Part 2 was similar, but we were calculating Julian Days. It would represent the number of days since day zero depending on what day we input. 
+   For part 1 of this lab, we had to make a Basal Metabolic Rate Calculator. We would input numbers that would be stored in variables that correspond to a person’s height, weight, and age. Then, we would put those variables in an equation to find the Basal Metabolic Rate of a person. I liked it because it is a useful tool for people who want to know this information about themselves. Part 2 was similar, but we were calculating Julian Days. It would represent the number of days since day zero depending on what day we input. 
 
 * Lab 10
 
