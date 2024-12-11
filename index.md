@@ -2,6 +2,10 @@
 
 My name is Edson Figueroa and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and I am a computer science major. I expect to graduate in 2028.
 
+## Computer Science Projects
+
+My GitHub page is http://github.com/edsonf1810.
+
 ## My Favorite CPSC 120L Labs 
 
 * Lab 2
